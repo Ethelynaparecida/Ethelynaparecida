@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethelynaparecida&show_icons=true&locale=en&layout=compact" alt="ethelynaparecida" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethelynaparecida&show_icons=true&locale=en" alt="ethelynaparecida" /></p>
+<p>&nbsp;<img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=ethelynaparecida&show_icons=true&locale=en" alt="ethelynaparecida" /></p>
