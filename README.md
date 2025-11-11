@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ethelyn-silva-380a68a0" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethelyn-silva-380a68a0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ethelyn-silva-380a68a0" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
