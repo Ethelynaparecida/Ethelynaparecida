@@ -41,15 +41,6 @@ Sou uma desenvolvedora apaixonada por tecnologia, com foco em construir arquitet
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethelynaparecida&show_icons=true&locale=en&theme=radical" alt="Ethelyn's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethelynaparecida&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</div>
-
-<br>
-
 ## 📬 Vamos nos conectar!
 <p align="left">
   <a href="https://www.linkedin.com/in/ethelyn-silva-380a68a0" target="_blank">
